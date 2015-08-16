@@ -7,3 +7,4 @@ that algorithm developed all by me.
 This media Player can Play MP3 (Audio) files and MPEG(Video) files.
 Play List is available there.
 This mediaplayer is developed with the help of NETBEANS IDE.
+This MediaPlayer also requires JMF(Java Media Framework) to be installed before run.
